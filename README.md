@@ -21,9 +21,9 @@ This paper presents a novel CNN model called Soft Stagewise Regression Network (
 
 ## Codes
 There are three different section of this project.
-1.Data pre-processing
-2.Training
-3.Testing
++ Data pre-processing
++ Training
++ Testing
 
 We will go through the details in the following sections.
 
