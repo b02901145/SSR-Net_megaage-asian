@@ -12,6 +12,8 @@
 
 <img src="https://github.com/shamangary/SSR-Net/blob/master/table1.png" height="240"/>
 
+<img src="https://github.com/b02901145/SSR-Net_megaage-asian/blob/master/paper_images/magaage_asian_CA.png" height=80>
+
 ## Paper
 ### PDF
 https://github.com/shamangary/SSR-Net/blob/master/ijcai18_ssrnet_pdfa_2b.pdf
