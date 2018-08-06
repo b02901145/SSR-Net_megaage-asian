@@ -47,22 +47,22 @@ python TYY_Megaage_asian_create_db.py
 ```
 
 ### Training
-+For SSR-Net
++ For SSR-Net
 ```
 bash run_ssrnet_megaage.sh
 ```
-+For MobileNet
++ For MobileNet
 ```
 bash run_megaage_MobileNet.sh
 ```
-+For DenseNet
++ For DenseNet
 ```
 bash run_megaage_DenseNet.sh
 ```
 
 ### Testing
 Create predicted results and calculate CA (cumulative accuracy)
-+For SSR-Net, MobileNet and DenseNet
++ For SSR-Net, MobileNet and DenseNet
 ```
 bash run_CA.sh
 ```
