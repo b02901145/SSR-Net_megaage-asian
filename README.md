@@ -27,7 +27,7 @@ There are three different section of this project.
 
 We will go through the details in the following sections.
 
-This repository is for MegaAge-Asian datasets.
+**This repository is for MegaAge-Asian datasets.**
 
 ### Data pre-processing
 + Download MegaAge-Asian dataset from http://mmlab.ie.cuhk.edu.hk/projects/MegaAge/
