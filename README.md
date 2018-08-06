@@ -42,8 +42,9 @@ We will go through the details in the following sections.
 ### Data pre-processing
 + Download MegaAge-Asian dataset from http://mmlab.ie.cuhk.edu.hk/projects/MegaAge/
 + Extract under this folder
-+ Run the following codes for dataset pre-processing
-+ Or Download from https://drive.google.com/open?id=1CismL8x4gi3sAfTi3qpxedWSStTPsrcp
++ Run the following codes for dataset pre-processing  
+Or  
++ Download from https://drive.google.com/open?id=1CismL8x4gi3sAfTi3qpxedWSStTPsrcp
 ```
 python TYY_Megaage_asian_create_db.py
 ```
