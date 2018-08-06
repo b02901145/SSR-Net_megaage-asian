@@ -22,8 +22,39 @@ This paper presents a novel CNN model called Soft Stagewise Regression Network (
 ## Codes
 There are three different section of this project.
 1.Data pre-processing
-2.Training and testing
+2.Training
+3.Testing
 
 We will go through the details in the following sections.
 
 This repository is for MegaAge-Asian datasets.
+
+### Data pre-processing
++ Download MegaAge-Asian dataset from http://mmlab.ie.cuhk.edu.hk/projects/MegaAge/
++ Extract under this folder
++ Run the following codes for dataset pre-processing
++ Or Download from https://drive.google.com/open?id=1CismL8x4gi3sAfTi3qpxedWSStTPsrcp
+```
+python TYY_Megaage_asian_create_db.py
+```
+
+### Training
+for SSR-Net
+```
+bash run_ssrnet_megaage.sh
+```
+for MobileNet
+```
+bash run_megaage_MobileNet.sh
+```
+for DenseNet
+```
+bash run_megaage_DenseNet.sh
+```
+
+### Testing
+Create predicted results and calculate CA (cumulative accuracy)
+for SSR-Net, MobileNet and DenseNet
+```
+bash run_CA.sh
+```
