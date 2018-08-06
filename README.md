@@ -4,7 +4,7 @@
   * This is the code for preprocessing, training and testing on MegaAge-Asian dataset
   * See also https://github.com/shamangary/SSR-Net for more datasets and video demo
 
-**Last update: 2018/08/06 (Adding megaage_asian dataset.)**
+**Last update: 2018/08/06 (Adding MegaAge-Asian dataset.)**
 
 <img src="https://media.giphy.com/media/ygBDe4FIU4Cybbfh2N/giphy.gif" height="240"/> <img src="https://media.giphy.com/media/bZvHMOp2hBsusr96fa/giphy.gif" height="240"/> 
 
