@@ -44,7 +44,7 @@ We will go through the details in the following sections.
 + Extract under this folder
 + Run the following codes for dataset pre-processing 
 
-Or  
+   or  
 
 + Download from https://drive.google.com/open?id=1CismL8x4gi3sAfTi3qpxedWSStTPsrcp
 ```
