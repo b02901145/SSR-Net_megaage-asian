@@ -1,8 +1,8 @@
 # SSR-Net_megaage-asian
 [IJCAI18] SSR-Net: A Compact Soft Stagewise Regression Network for Age Estimation 
-  * A real time age estimation model with 0.32MB.
-  * This is the code for preprocessing, training and testing on MegaAge-Asian dataset
-  * See also https://github.com/shamangary/SSR-Net for more datasets and video demo
+  * A real time age estimation model with **0.32MB**
+  * This repository is for **MegaAge-Asian** datasets
+  * See also https://github.com/shamangary/SSR-Net for **more datasets** and **video demo**
 
 **Last update: 2018/08/06 (Adding MegaAge-Asian dataset.)**
 
